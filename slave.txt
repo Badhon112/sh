@@ -1,0 +1,2 @@
+yum install git java-1.8.0-openjdk maven -y
+yum install fontconfig java-11-openjdk -y
